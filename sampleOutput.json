@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Cricket grandstand collapses during first Sri Lanka-Australia test in Galle",
+            "description": "Heavy rain and wind causes the roof of a temporary grandstand to collapse before the start of play on day two of the first test in Galle.",
+            "url": "http://www.abc.net.au/news/2022-06-30/sri-lanka-australia-first-test-cricket-grandstand-collapses/101197718",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9756a6ddf19f6cab0297a621d9fefded?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=273&width=862&height=485",
+            "publishedAt": "2022-06-30T05:16:44Z",
+            "content": "The roof on a makeshift grandstand at Galle International Stadium has collapsed in heavy rain and wind before the start of play between Sri Lanka and Australia.\r\n<ul><li>Sheets of corrugated iron ble… [+1067 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "Cricket Australia expects packed stadiums for T20 World Cup",
+            "description": "Ticket demand for the Twenty20 World Cup in Australia later this year suggests there will be packed houses for the marquee event, the country's cricket board CEO Nick Hockley said.",
+            "url": "https://www.news24.com/sport/cricket/cricket-australia-expects-packed-stadiums-for-t20-world-cup-20220629",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11683/54e3014c4c4e4a4a92978c8ebe09b903.jpg",
+            "publishedAt": "2022-06-29T19:50:33+00:00",
+            "content": "Ticket demand for the Twenty20 World Cup in Australia later this year suggests there will be packed houses for the marquee event, the country's cricket board CEO Nick Hockley said on Wednesday.\r\nAust… [+1442 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Shane Warne memorial - watch & follow updates",
+            "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+            "publishedAt": "2022-03-30T08:22:26.498888Z",
+            "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
