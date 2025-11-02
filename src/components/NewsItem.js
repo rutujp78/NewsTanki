@@ -9,7 +9,7 @@ const NewsItem = (props) => {
         <div style={{ display: 'flex', justifyContent: 'flex-end', position: 'absolute', right: '0' }}>
           <span className="badge text-bg-dark">{source}</span>
         </div>
-        <img src={!imgUrl ? "NewsTaki" : imgUrl} className="card-img-top" alt="..." />
+        <img src={!imgUrl ? "NewsTanki" : imgUrl} className="card-img-top" alt="..." />
         <div className="card-body">
           <h5 className="card-title">{title}</h5>
           <p className="card-text">{description}</p>
